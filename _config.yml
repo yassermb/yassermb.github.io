@@ -23,8 +23,8 @@ repository               : "https://github.com/yassermb"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  avatar           : "yasser.png"
+  name             : "Yasser Mohseni, PhD"
   pronouns         : # example: "she/her"  
   bio              : "Exploring Cells via Protein Interactions | Computational Biologist & Electrical Engineer | 🏆 i-PhD Laureate | Passionate about Teaching!"
   location         : "Paris, FRANCE"
@@ -57,7 +57,7 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
