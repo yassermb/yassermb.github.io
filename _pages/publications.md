@@ -17,8 +17,6 @@ C. Dequeker, **Y. Mohseni Behbahani**, L. David, E. Laine, A. Carbone, “From c
 
 N. Sokolovska, **Y. Mohseni Behbahani**, “Vanishing Boosted Weights: A consistent algorithm to learn interpretable rules”, Journal of Pattern Recognition Letters, 152: 63-69, 2021.
 
-**Y. Mohseni Behbahani**, B. Babaali, A. Hajavi, “Persian Poem Rhythm Classification using Recurrent Neural Networks”, Journal of Natural Language Engineering, Cambridge University Press, (submitted).
-
 **Y. Mohseni Behbahani**, B. Babaali, M. Turdalyuly, “Persian Sentences to Phoneme Sequences Conversion based on Recurrent Neural Networks”, Journal of Computer Science, De Gruyter, 2016.
 
 
