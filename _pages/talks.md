@@ -43,7 +43,7 @@ Dynamics of Structures and Interactions of Macromolecules in Biology (DSIMB), In
 La Matinée sur les Applications de la Bio-Informatique (MABI). LCQB, Sorbonne Université, Paris, France, April 1, 2025.
 
 **Prediction of the effects of mutations on protein-protein interactions**<br>
-Presented at:<br>
+Presented at:
  - Institute of Molecular Systems Biology (IMSB), ETH Zürich, April 19, 2024.
  - LORIA, INRIA, March 19, 2024.
  - SciLifeLab, Stockholm University, March 8, 2024.
