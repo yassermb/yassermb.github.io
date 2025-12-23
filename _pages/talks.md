@@ -5,7 +5,7 @@ permalink: /talks/
 
 ## Conferences
 
-**Proteins in Silico: Deep Learning Meets Structural Biology**
+**Proteins in Silico: Deep Learning Meets Structural Biology**<br>
 Les défis de la biologie moderne et l’intelligence artificielle, la journée scientifique et pédagogique de l’UFR Sciences de Vivant. Université Paris Cité, Paris, France, December 9, 2025.
 
 **LabSae: Une plateforme computationnelle pour analyser les réseaux d'interactions protéiques. Vers l'optimisation de la conception des nanocorps grâce à des perspectives basées sur l'intelligence artificielle**
