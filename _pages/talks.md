@@ -42,8 +42,7 @@ Dynamics of Structures and Interactions of Macromolecules in Biology (DSIMB), In
 **LabSae: une plateforme computationnelle pour optimiser la conception de médicaments grâce aux réseaux d'interaction protéique**<br>
 La Matinée sur les Applications de la Bio-Informatique (MABI). LCQB, Sorbonne Université, Paris, France, April 1, 2025.
 
-**Prediction of the effects of mutations on protein-protein interactions**<br>
-Presented at:
+**Prediction of the effects of mutations on protein-protein interactions**
  - Institute of Molecular Systems Biology (IMSB), ETH Zürich.
  - LORIA, INRIA.
  - SciLifeLab, Stockholm University.
