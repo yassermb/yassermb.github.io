@@ -1,3 +1,8 @@
+---
+title: "Publications"
+permalink: /publications/
+---
+
 G. Verdon, L. David, A. de Brevern, Y. Mohseni Behbahani, “A deep learning approach for rational affinity maturation of anti-VEGF nanobodies”. Machine Learning for Structural Biology Workshop, NeurIPS, 2025 (Accepted).
 Y. Mohseni Behbahani, E. Laine, A. Carbone, “Deep Local Analysis deconstructs protein- protein interfaces and accurately estimates binding affinity changes upon mutation”, Proceedings on ISMB-ECCB, Bioinformatics, 2023.
 Y. Mohseni Behbahani, P. Saighi, F. Corsi, E. Laine, A. Carbone, “LEVELNET to visualise, explore and compare protein-protein interaction networks”, Proteomics, 2023.
