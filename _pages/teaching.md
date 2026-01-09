@@ -3,7 +3,10 @@ title: "Teaching"
 permalink: /teaching/
 ---
 
-## Université Paris Cité
+<h2>
+	Université Paris Cité
+  	<img src="/images/logo_UPC.png" alt="Logo" width="120" style="float:right;" />
+</h2>
 
 ### Master
 Advanced artificial intelligence: Graph neural networks (7.25h)
@@ -28,7 +31,10 @@ Simulation in biology 1&2 (14h)
 Mathematical modeling in biology (30h)
 
 
-## Sorbonne Université
+<h2>
+	Sorbonne Université
+  	<img src="/images/logo_SU.png" alt="Logo" width="100" style="float:right;" />
+</h2>
 
 Algorithms in structural bioinformatics (18h)
 <br>
@@ -42,7 +48,11 @@ Introduction to bioinformatics (68h)
 <br>
 Data Structures (3.8h)
 
-## Polytech Sorbonne Université
+
+<h2>
+	Polytech Sorbonne Université
+  	<img src="/images/logo_SU_polytech.png" alt="Logo" width="100" style="float:right;" />
+</h2>
 
 Object-oriented programming (40h)
 <br>
