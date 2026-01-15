@@ -9,26 +9,26 @@ permalink: /teaching/
 </h2>
 
 ### Master
-Advanced artificial intelligence: Graph neural networks (7.25h)
+Advanced artificial intelligence: Graph neural networks (CM+TP, 7.25h)
 <br>
 Computer project management and advanced programming (8h)
 <br>
-Optimization and machine learning methods (5.5h)
+Optimization and machine learning methods (TP, 5.5h)
 <br>
-Advanced structural bioinformatics and molecular modeling (3h)
+Advanced structural bioinformatics and molecular modeling (CM+TP, 3h)
 <br>
-Design and management of innovative R&D projects: From idea to implementation (3h)
+Design and management of innovative R&D projects: From idea to implementation (CM, 3h)
 <br>
-Deep Learning and Artificial Intelligence 2 (8h)
+Deep Learning and Artificial Intelligence 2 (CM+TP, 8h)
 
 ### Licence
-Introduction to biostatistics and data analysis (20h)
+Introduction to biostatistics and data analysis (TD+TP, 20h)
 <br>
-Biostatistics 2: Hypothesis Testing (16h)
+Biostatistics 2: Hypothesis Testing (TD+TP, 16h)
 <br>
-Simulation in biology 1&2 (14h)
+Simulation in biology 1&2 (TP, 14h)
 <br>
-Mathematical modeling in biology (30h)
+Mathematical modeling in biology (TD, 30h)
 
 
 <h2>
@@ -36,15 +36,15 @@ Mathematical modeling in biology (30h)
   	<img src="/images/logo_SU.png" alt="Logo" width="100" style="float:right;" />
 </h2>
 
-Algorithms in structural bioinformatics (18h)
+Algorithms in structural bioinformatics (CM+TP, 18h)
 <br>
-Basics of programming in Python (63h)
+Basics of programming in Python (TP, 63h)
 <br>
-Phylogeny and comparative genomics (32h)
+Phylogeny and comparative genomics (TP, 32h)
 <br>
-Algorithms on trees and graphs in bioinformatics (6h)
+Introduction to bioinformatics (TP, 68h)
 <br>
-Introduction to bioinformatics (68h)
+Algorithms on trees and graphs in bioinformatics (TD, 6h)
 <br>
 Data Structures (3.8h)
 
@@ -54,6 +54,6 @@ Data Structures (3.8h)
   	<img src="/images/logo_SU_polytech.png" alt="Logo" width="100" style="float:right;" />
 </h2>
 
-Object-oriented programming (40h)
+Object-oriented programming (TP, 40h)
 <br>
-C programming language (20h)
+C programming language (TP, 20h)
