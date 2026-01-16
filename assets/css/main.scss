@@ -41,3 +41,29 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
+
+
+.archive__item {
+  border: 1px solid #e5e7eb;   /* light gray frame */
+  border-radius: 8px;
+  padding: 1rem 1.25rem;
+  margin-bottom: 1.5rem;
+  background: #ffffff;
+  transition: box-shadow 0.2s ease, transform 0.2s ease;
+}
+
+.archive__item:hover {
+  box-shadow: 0 6px 18px rgba(0,0,0,0.08);
+  transform: translateY(-2px);
+}
+
+.archive__item-teaser img {
+  width: auto;              /* maintain natural aspect ratio */
+  max-width: 30%;           /* makes the image smaller inside card */
+  height: auto;
+  border-radius: 6px;
+  border: 1px solid #e5e7eb;
+  display: inline-block;    /* for centering */
+  object-fit: contain;      /* no cropping */
+  background: #f8f8f8;      /* optional light background */
+}
