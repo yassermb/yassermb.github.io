@@ -9,26 +9,33 @@ permalink: /teaching/
 </h2>
 
 ### Master
-Advanced artificial intelligence: Graph neural networks (CM+TP, 7.25h)
+* Advanced artificial intelligence: Graph neural networks (CM+TP, 7.25h)
 <br>
-Computer project management and advanced programming (8h)
+[Hands-on session on Graph Neural Networks <img src="/images/small_graph.svg" width="100">](https://colab.research.google.com/drive/1bbQE7PlnmDiQpX6wgx2Z75gHS0zMp3tA)
 <br>
-Optimization and machine learning methods (TP, 5.5h)
+Deep learning and artificial intelligence 2 (CM+TP, 8h)
 <br>
-Advanced structural bioinformatics and molecular modeling (CM+TP, 3h)
+[Hands-on session on Protein Structure Representation Learning <img src="/images/local_env_cube.png" width="70">](https://colab.research.google.com/drive/1cQ3POBsdfUM1gg2VN4hX6Ps8ZIC1B7n_?usp=sharing)
 <br>
-Design and management of innovative R&D projects: From idea to implementation (CM, 3h)
+[Hands-on session on Protein Sequence Representation Learning <img src="/images/languagemasking.png" width="70">](https://colab.research.google.com/drive/16ddwOia4tr-yvzPKjiCwr6nTC9R8JQ_k)
 <br>
-Deep Learning and Artificial Intelligence 2 (CM+TP, 8h)
+* Computer project management and advanced programming (8h)
+<br>
+* Optimization and machine learning methods (TP, 5.5h)
+<br>
+* Advanced structural bioinformatics and molecular modeling (CM+TP, 3h)
+<br>
+* Design and management of innovative R&D projects: From idea to implementation (CM, 3h)
+
 
 ### Licence
-Introduction to biostatistics and data analysis (TD+TP, 20h)
+* Introduction to biostatistics and data analysis (TD+TP, 20h)
 <br>
-Biostatistics 2: Hypothesis Testing (TD+TP, 16h)
+* Biostatistics 2: Hypothesis Testing (TD+TP, 16h)
 <br>
-Simulation in biology 1&2 (TP, 14h)
+* Simulation in biology 1&2 (TP, 14h)
 <br>
-Mathematical modeling in biology (TD, 30h)
+* Mathematical modeling in biology (TD, 30h)
 
 
 <h2>
@@ -36,17 +43,17 @@ Mathematical modeling in biology (TD, 30h)
   	<img src="/images/logo_SU.png" alt="Logo" width="100" style="float:right;" />
 </h2>
 
-Algorithms in structural bioinformatics (CM+TP, 18h)
+* Algorithms in structural bioinformatics (CM+TP, 18h)
 <br>
-Basics of programming in Python (TP, 63h)
+* Basics of programming in Python (TP, 63h)
 <br>
-Phylogeny and comparative genomics (TP, 32h)
+* Phylogeny and comparative genomics (TP, 32h)
 <br>
-Introduction to bioinformatics (TP, 68h)
+* Introduction to bioinformatics (TP, 68h)
 <br>
-Algorithms on trees and graphs in bioinformatics (TD, 6h)
+* Algorithms on trees and graphs in bioinformatics (TD, 6h)
 <br>
-Data Structures (3.8h)
+* Data Structures (3.8h)
 
 
 <h2>
@@ -54,6 +61,6 @@ Data Structures (3.8h)
   	<img src="/images/logo_SU_polytech.png" alt="Logo" width="100" style="float:right;" />
 </h2>
 
-Object-oriented programming (TP, 40h)
+* Object-oriented programming (TP, 40h)
 <br>
-C programming language (TP, 20h)
+* C programming language (TP, 20h)
