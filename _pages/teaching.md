@@ -11,13 +11,13 @@ permalink: /teaching/
 ### Master
 * Advanced artificial intelligence: Graph neural networks (CM+TP, 7.25h)
 <br>
-[Hands-on session on Graph Neural Networks <img src="/images/small_graph.svg" width="100">](https://colab.research.google.com/drive/1bbQE7PlnmDiQpX6wgx2Z75gHS0zMp3tA)
+[Hands-on session on graph neural networks <img src="/images/small_graph.svg" width="100">](https://colab.research.google.com/drive/1bbQE7PlnmDiQpX6wgx2Z75gHS0zMp3tA)
 <br>
 Deep learning and artificial intelligence 2 (CM+TP, 8h)
 <br>
-[Hands-on session on Protein Structure Representation Learning <img src="/images/local_env_cube.png" width="70">](https://colab.research.google.com/drive/1cQ3POBsdfUM1gg2VN4hX6Ps8ZIC1B7n_?usp=sharing)
+[Hands-on session on protein structure representation learning <img src="/images/local_env_cube.png" width="70">](https://colab.research.google.com/drive/1cQ3POBsdfUM1gg2VN4hX6Ps8ZIC1B7n_?usp=sharing)
 <br>
-[Hands-on session on Protein Sequence Representation Learning <img src="/images/languagemasking.png" width="70">](https://colab.research.google.com/drive/16ddwOia4tr-yvzPKjiCwr6nTC9R8JQ_k)
+[Hands-on session on protein sequence representation learning <img src="/images/languagemasking.png" width="70">](https://colab.research.google.com/drive/16ddwOia4tr-yvzPKjiCwr6nTC9R8JQ_k)
 <br>
 * Computer project management and advanced programming (8h)
 <br>
