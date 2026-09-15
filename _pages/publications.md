@@ -1,6 +1,7 @@
 ---
 title: "Publications"
 permalink: /publications/
+description: "Journal articles and conference papers by Yasser Mohseni on protein-protein interactions, deep learning for structural biology, and computational biology."
 ---
 
 ## Journal Articles

@@ -1,6 +1,7 @@
 ---
 title: "Talks"
 permalink: /talks/
+description: "Conference talks and invited lectures by Yasser Mohseni on deep learning, computational and structural biology."
 ---
 
 ## Conferences

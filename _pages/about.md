@@ -1,6 +1,7 @@
 ---
 permalink: /
 title: "About me"
+description: "Yasser Mohseni, PhD - Associate Professor at Université Paris Cité, working at the intersection of computational biology and deep learning, with a focus on proteins, molecular interactions, and antibody/nanobody design."
 author_profile: true
 redirect_from: 
   - /about/
