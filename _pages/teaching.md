@@ -9,7 +9,9 @@ permalink: /teaching/
 </h2>
 
 ### Master
-* Advanced artificial intelligence: Graph neural networks (CM+TP, 7.25h)
+* Advanced artificial intelligence: Diffusion models (CM+TP, 12h)
+<br>
+* Advanced artificial intelligence: Graph neural networks (CM+TP, 17.75h)
 <br>
 [Hands-on session on graph neural networks <img src="/images/small_graph.svg" width="100">](https://colab.research.google.com/drive/1bbQE7PlnmDiQpX6wgx2Z75gHS0zMp3tA)
 <br>
@@ -20,7 +22,7 @@ permalink: /teaching/
 <br>
 [Hands-on session on protein sequence representation learning <img src="/images/languagemasking.png" width="100">](https://colab.research.google.com/drive/16ddwOia4tr-yvzPKjiCwr6nTC9R8JQ_k)
 <br>
-* Computer project management and advanced programming (8h)
+* Computer project management and advanced programming (21.5h)
 <br>
 * Optimization and machine learning methods (TP, 5.5h)
 <br>
