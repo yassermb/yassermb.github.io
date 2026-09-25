@@ -13,6 +13,7 @@ permalink: /teaching/
 <br>
 <img src="/images/teach_ddpm.png" width="500">
 <br>
+<br>
 * Advanced artificial intelligence: Graph neural networks (CM+TP, 17.75h)
 <br>
 <img src="/images/teach_gnn.png" width="500">
