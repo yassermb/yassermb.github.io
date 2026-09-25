@@ -11,7 +11,11 @@ permalink: /teaching/
 ### Master
 * Advanced artificial intelligence: Diffusion models (CM+TP, 12h)
 <br>
+<img src="/images/teach_ddpm.png" width="500">
+<br>
 * Advanced artificial intelligence: Graph neural networks (CM+TP, 17.75h)
+<br>
+<img src="/images/teach_gnn.png" width="500">
 <br>
 [Hands-on session on graph neural networks <img src="/images/small_graph.svg" width="100">](https://colab.research.google.com/drive/1bbQE7PlnmDiQpX6wgx2Z75gHS0zMp3tA)
 <br>
