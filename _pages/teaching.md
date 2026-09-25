@@ -13,7 +13,7 @@ permalink: /teaching/
 <br>
 <img src="/images/teach_ddpm.png" width="500">
 <br>
-[Hands-on session on diffusion models <img src="/images/small_ddpm.png" width="200">](https://drive.google.com/file/d/1WXkeDM9tT_yD9h1oNU8x4Ig5fpdxXa3w/view?usp=sharing)
+[Hands-on session on diffusion models <img src="/images/small_ddpm.png" width="200">](https://colab.research.google.com/drive/1WXkeDM9tT_yD9h1oNU8x4Ig5fpdxXa3w)
 <br>
 * Advanced artificial intelligence: Graph neural networks (CM+TP, 17.75h)
 <br>
